@@ -1,3 +1,4 @@
+# C / C++ Compiled Binaries & Temp Files
 *.exe
 *.out
 *.o
