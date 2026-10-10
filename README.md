@@ -20,7 +20,7 @@ The CSES problem set spans 400 problems covering standard competitive programmin
 
 | Category | Solved / Total | Status |
 | :--- | :---: | :---: |
-| 01. Introductory Problems | 5 / 24 | In Progress |
+| 01. Introductory Problems | 9 / 24 | In Progress |
 | 02. Sorting and Searching | 0 / 35 | Pending |
 | 03. Dynamic Programming | 0 / 23 | Pending |
 | 04. Graph Algorithms | 0 / 36 | Pending |
