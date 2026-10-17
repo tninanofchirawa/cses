@@ -1,0 +1,19 @@
+#!/bin/sh
+# CSES Progress Tracker Pre-commit Hook
+# Updates README.md automatically before every commit
+
+if command -v python >/dev/null 2>&1; then
+    PYTHON_CMD="python"
+elif command -v python3 >/dev/null 2>&1; then
+    PYTHON_CMD="python3"
+elif command -v py >/dev/null 2>&1; then
+    PYTHON_CMD="py"
+else
+    echo "[!] Warning: Python not found. Skipping README tracker update."
+    exit 0
+fi
+
+$PYTHON_CMD update_readme.py
+git add README.md
+
+exit 0

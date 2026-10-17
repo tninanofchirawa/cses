@@ -1,10 +1,3 @@
----
-
-### File 2: Put this into `NOTES.md`
-
-Create a separate file named `NOTES.md` in the same directory, and put this inside:
-
-```markdown
 # Personal Study Notes & Key Takeaways
 
 A log of recurring ideas, edge cases, and algorithmic observations discovered while working through the CSES set.
