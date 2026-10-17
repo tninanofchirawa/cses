@@ -15,7 +15,7 @@ Full implementations live in this repository, but this archive is structured to 
 ### 📊 Completion Progress
 
 ```text
-Progress : [■□□□□□□□□□□□□□□□□□□□] 11 / 400 Solved (2.8%)
+Progress : [■□□□□□□□□□□□□□□□□□□□] 12 / 400 Solved (3.0%)
 Target   : Complete CSES Problem Set
 Status   : Compiling without warnings... mostly
 ```
@@ -25,7 +25,7 @@ Status   : Compiling without warnings... mostly
 | # | Category | Solved / Total | Status |
 | :-: | :--- | :-: | :-: |
 | 01 | [Introductory Problems](01-Introductory-Problems/) | 11 / 24 | 🔄 In Progress |
-| 02 | [Sorting and Searching](02-Sorting-and-Searching/) | 0 / 35 | ⏳ Pending |
+| 02 | [Sorting and Searching](02-Sorting-and-Searching/) | 1 / 35 | 🔄 In Progress |
 | 03 | [Dynamic Programming](03-Dynamic-Programming/) | 0 / 23 | ⏳ Pending |
 | 04 | [Graph Algorithms](04-Graph-Algorithms/) | 0 / 36 | ⏳ Pending |
 | 05 | [Range Queries](05-Range-Queries/) | 0 / 25 | ⏳ Pending |
@@ -35,7 +35,7 @@ Status   : Compiling without warnings... mostly
 | 09 | [Geometry](09-Geometry/) | 0 / 16 | ⏳ Pending |
 | 10 | [Advanced Techniques](10-Advanced-Techniques/) | 0 / 25 | ⏳ Pending |
 | 11 | [Additional Problems](11-Additional-Problems/) | 0 / 142 | ⏳ Pending |
-| **Total** | **All Categories** | **11 / 400** | **2.8%** |
+| **Total** | **All Categories** | **12 / 400** | **3.0%** |
 <!-- TRACKER:END -->
 
 ---
